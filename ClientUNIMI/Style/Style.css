@@ -1,0 +1,64 @@
+﻿body {
+  
+}
+
+footer {
+    background-color: black;
+    color: white;
+    font-family: 'Segoe UI', Verdana;
+}
+
+
+.navbar {
+    background-color: black;
+    color: white;
+    font-family:'Segoe UI', Verdana;
+    font:100;
+}
+
+a:hover {
+    font:bold;    
+    color:white !important;
+}
+
+div {
+    margin-left:3%;
+    margin-right:3%;
+}
+
+button {
+    width:100%;
+}
+
+.jumbotron {
+background-color:white;
+}
+
+.greybtn {
+background-color:gray;
+}
+
+.card {
+    padding-left: 10% !important;
+    padding-right: 10% !important;
+}
+
+.bigTitle {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.alertMsg {
+    color:red;
+    font-size:large;
+    font:bold;
+}
+
+#lougoutBtn {
+    font-family: 'Segoe UI', Verdana;
+    color: rgba(255,255,255,.5);
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+}
